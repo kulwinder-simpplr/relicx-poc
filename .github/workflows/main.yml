@@ -29,7 +29,7 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         app_id: a2bb33cf-e3d4-4bb2-80ab-af6a28eac5e2
         command: run_test_suite
-        test_suite_id: 846eae0f-7f94-43c3-9889-d130b6bf2140
+        test_suite_id: d352272b-2850-4078-8067-68ba2986c2dd
         environment_id: b0b10320-5fb3-475a-be8f-54b5ce966a96
         wait: true
 
